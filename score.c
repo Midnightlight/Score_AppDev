@@ -1,7 +1,7 @@
 #include "score.h"
 
-// usually for a large project, the main() only outlines the
-// general steps of this program
+// usually for a large project, the main() only outlines 
+// the general steps of this program
 
 int main(void)
 {
