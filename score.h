@@ -8,6 +8,7 @@
 // 3. Function prototypes (a.k.a function declaration)
 
 #define MAX 30
+// this line has been updated from shell
 
 void input_scores(int[]);
 void evaluation(int[], int[]);
