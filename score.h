@@ -7,7 +7,8 @@
 // 2. Data structure definitions
 // 3. Function prototypes (a.k.a function declaration)
 
-#define MAX 30
+#define MAX 30 
+// this line has been updated from github website
 
 void input_scores(int[]);
 void evaluation(int[], int[]);
