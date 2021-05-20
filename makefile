@@ -3,6 +3,7 @@ APPNAME = score
 
 $(APPNAME):$(OBJ)						#	for linking
 	gcc -o $(APPNAME) $(OBJ) -lcurl
+	chmod u+x score
 
 %.o :	%.c			# compiling rule, for each .c file in the folder
 	gcc -c -o $@	$<
